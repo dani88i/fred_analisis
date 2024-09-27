@@ -20,6 +20,7 @@ Este proyecto tiene como objetivo realizar un análisis del estado de la econom�
 
 
 # 🛠 📊  Haga clic en el enlace de la imagen para utilizar el gráfico interactivo.
-![Gráfico de la Tasa de Desempleo](desempleo_grafico.png)(https://plotly.com/~dani88i/5.embed)
+
+[![Gráfico de la Tasa de Desempleo](desempleo_grafico.png)](https://plotly.com/~dani88i/5.embed)
 
    

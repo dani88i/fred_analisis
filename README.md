@@ -18,6 +18,8 @@ Este proyecto tiene como objetivo realizar un análisis del estado de la econom�
 - **Matplotlib**: Para crear visualizaciones estáticas de los datos.
 - **Plotly Express**: Para gráficos interactivos y dinámicos.
 
-![Gráfico de la Tasa de Desempleo](desempleo_grafico.png)
+
+# 🛠 📊  Haga clic en el enlace de la imagen para utilizar el gráfico interactivo.
+![Gráfico de la Tasa de Desempleo](desempleo_grafico.png)(https://plotly.com/~dani88i/5.embed)
 
    

@@ -11,8 +11,6 @@ Este proyecto tiene como objetivo realizar un análisis del estado de la econom�
 
 ## 🛠 Tecnologías Utilizadas
 
-## 🛠 Tecnologías Utilizadas
-
 - **Python**: Lenguaje base para el desarrollo del proyecto.
 - **FRED API**: 🌐 **Fuente principal de datos económicos** proporcionada por la Reserva Federal de EE. UU.
 - **Pandas**: Para la manipulación avanzada de datos tabulares.

@@ -18,11 +18,6 @@ Este proyecto tiene como objetivo realizar un análisis del estado de la econom�
 - **Matplotlib**: Para crear visualizaciones estáticas de los datos.
 - **Plotly Express**: Para gráficos interactivos y dinámicos.
 
-## ⚙️ Instalación y Configuración
+![Gráfico de la Tasa de Desempleo](desempleo_grafico.png)
 
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/usuario/repo-economia.git](https://github.com/dani88i/fred_analisis.git
-
-[Ver gráfico interactivo de la tasa de desempleo](tasa_desempleo_estado.html)
    

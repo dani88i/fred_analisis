@@ -1,8 +1,8 @@
-# 📊 Análisis de la Economía Estadounidense a través de la APIs
+# 📊 Análisis de las tasas de desempleo Estadounidense a través de la API FRED
 
-Este proyecto tiene como objetivo realizar un análisis del estado de la economía estadounidense utilizando datos públicos proporcionados por la Reserva Federal a través de su **API FRED (Federal Reserve Economic Data)**. Utilizando diversas herramientas de análisis de datos, visualización y manipulación, este proyecto ayuda a generar visualizaciones y métricas clave para el seguimiento de la economía.
+Este proyecto tiene como objetivo realizar un análisis en la evolución de la tasa de desempleo de la economía estadounidense utilizando datos públicos proporcionados por la Reserva Federal a través de su **API FRED (Federal Reserve Economic Data)**. Utilizando datos mensuales ajustados por temporada y en porcentajes empleamos diversas herramientas de análisis de datos, visualización y manipulación, este proyecto ayuda a generar visualizaciones y métricas clave para el seguimiento de la economía.
 
-## 🚀 Características del Proyecto
+## 🚀 Características del análisis
 
 - 🔍 **Acceso a datos económicos en tiempo real** a través de la **API FRED**, directamente desde la Reserva Federal.
 - 🛠 **Manipulación y análisis de grandes volúmenes de datos** con **Pandas** y **NumPy**.
@@ -26,5 +26,3 @@ Este proyecto tiene como objetivo realizar un análisis del estado de la econom�
 ** Es importante destacar que, debido a las limitaciones de la capacidad de la API, solo se pueden mostrar cuatro estados. No obstante, al ejecutar el archivo del notebook, es posible acceder de manera interactiva a los datos correspondientes a los demás estados.
 
 [![Gráfico de la Tasa de Desempleo](desempleo_grafico.png)](https://plotly.com/~dani88i/5.embed)
-
-   
